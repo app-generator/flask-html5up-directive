@@ -1,7 +1,10 @@
 # [Flask Html5up Directive](https://appseed.us/apps/flask-apps/flask-html5up-directive)
 
-Unopinionated Flask Boilerplate generated with [automation tools](https://github.com/app-generator/developer-tools) by **[AppSeed App Generator](https://appseed.us/app-generator)**
+**Open-Source Web App** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
+### App Features:
+
+- **Commercial License**
 - Design kit: [HTML5up Directive](https://html5up.net/directive)
 - Authentication (login, register)
 - SQLite database managed by SQLAlchemy ORM,
@@ -48,4 +51,4 @@ $ flask run
 <br />
 
 ---
-[Flask Html5up Directive](https://appseed.us/apps/flask-apps/flask-html5up-directive) - provided by **AppSeed**
+[Flask Html5up Directive](https://appseed.us/apps/flask-apps/flask-html5up-directive) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
